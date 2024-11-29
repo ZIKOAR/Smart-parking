@@ -1,0 +1,1 @@
+mode=int(input("1:entree\n0:sotie:"))
